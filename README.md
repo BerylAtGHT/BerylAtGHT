@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BerylAtGHT, a geophysicist and GIS data analyst working at geohydrotech solution.I have industrial experience ranging from geological and geophysical mapping for mineral exploration, groundwater investigation and geotechnics. I trace and mine mineralised veins for mining companies.
+- 👋 Hi, I’m Emmanuel , a geophysicist and GIS data analyst working at geohydrotech solution.I have industrial experience ranging from geological and geophysical mapping for mineral exploration, groundwater investigation and geotechnics. I trace and mine mineralised veins for mining companies, Drill borehole for domestic and industrial use.I create maps and analyse GIS Data. 
 - 👀 I’m interested in geoinformatics and internet powered technology
 - 🌱 I’m currently learning software engineering with alx and other platform with the plan of building geo-software for geological firms. 
 - 💞️ I’m looking to collaborate on geoscience and web development 
